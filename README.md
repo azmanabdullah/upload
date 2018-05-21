@@ -1,2 +1,2 @@
 # upload
-for learn github
+untuk belajar
